@@ -47,6 +47,7 @@
 
 #define CLK_PLL_PERIPH0		9
 
+#define CLK_PLL_DE		13
 #define CLK_CPUX		14
 
 #define CLK_BUS_CE		20
